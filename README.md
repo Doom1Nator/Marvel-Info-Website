@@ -1,4 +1,6 @@
 # Marvel-Info-Website
+## Description
+You can enjoy searching marvel characters, comics, series on this website. Hope marvel fans like it.
 ## Getting started
 ### Installation
 This project is separate into client-side and server-side, you need `cd` into both of the folders and do installation:  
