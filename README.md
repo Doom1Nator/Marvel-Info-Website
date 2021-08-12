@@ -1,7 +1,5 @@
 # Marvel-Info-Website
 ## Getting started
-### MongoDB
-This project requires mongoDB, which you can download from: https://www.mongodb.com/try/download
 ### Installation
 This project is separate into client-side and server-side, you need `cd` into both of the folders and do installation:  
 `npm install`
