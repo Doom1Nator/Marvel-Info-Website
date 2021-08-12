@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding-top: 25px;
+  background-color: #282c34;
+  min-height: 20vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(3px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.navlink {
+  padding: 0.4rem 0.8rem;
+  background-color: white;
+  border-radius: 3px;
+  color: #1e8678;
+  text-decoration: none !important;
+  margin: 10px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 16px;
+}
+
+.paginations {
+  font-size: larger;
+}
+
+.pagiDiv {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a.navlink, a.paginations, h3 {
+  color: #178577;
+}
+
+.stop-search-button {
+  padding: 0.4rem 0.8rem;
+  background-color: #1e8678;
+  border-radius: 3px;
+  color: white;
+  text-decoration: none !important;
+  margin: 20px;
+  font-size: 25px;
+}
